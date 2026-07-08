@@ -1,0 +1,12 @@
+From: stephen.marquard@uct.ac.za
+From: louis@media.berkeley.edu From:
+zqian@umich.edu 
+From: rjlowe@iupui.edu Received: by mail.example.com
+Subject: Meeting Tomorrow X-Sieve: CMU Sieve 2.3 X-DSPAM-Result:
+Innocent X-DSPAM-Confidence: 0.8475 X-Content-Type-Message-Body:
+text/plain X-Plane is behind schedule: Date: Sat, 5 Oct 2018 10:30:00
+To: student@example.com Cc: faculty@example.edu Hello everyone, Please
+submit the assignment before Monday. Visit https://example.com for
+details. 
+Contact: admin@uct.ac.za Roll Number: 101 Marks: 88 out of 100
+Phone: 9876543210
